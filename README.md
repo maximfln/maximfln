@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Contacts:
+
+- [Telegram](https://t.me/maxim_fln)
+- [Linkedin](https://linkedin.com/in/maximfln)
+- [CareerHabr](https://career.habr.com/maxim-fln)
+
 ![](https://komarev.com/ghpvc/?username=maximfln&color=blue&style=flat-square)
 
 <!--
